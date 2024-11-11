@@ -5,14 +5,22 @@
 
 
 ### AIM:
+
 To implement SARIMA model using python.
+
+
 ### ALGORITHM:
+
+
 1. Explore the dataset
 2. Check for stationarity of time series
 3. Determine SARIMA models parameters p, q
 4. Fit the SARIMA model
 5. Make time series predictions and Auto-fit the SARIMA model
 6. Evaluate model predictions
+
+
+
 ### PROGRAM:
 ```
 import pandas as pd
@@ -74,11 +82,16 @@ plt.show()
 ### OUTPUT:
 ![10 1](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/681feffd-149c-4841-aba8-7c25fb1edc06)
 
+
 ![10 2](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/0a74ec6b-3682-48e4-aa3c-eb6a6143c1e3)
+
 
 ![10 3](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/4cf8fba0-4c1b-458b-abf3-499794ec31b9)
 
+
 ![10 4](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/597d7c01-f0a8-4877-85dc-8797db59aaa9)
 
+
 ### RESULT:
+
 Thus the program run successfully based on the SARIMA model.
